@@ -26,6 +26,7 @@ Password: `demo`
 
 You can also use the **Quick Access (Demo)** buttons available on the login page.
 
+and you can switch the roles from each account in the section called "Role Switcher".
 ---
 
 ## ✨ Features
