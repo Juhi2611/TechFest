@@ -52,7 +52,7 @@ You can also use the **Quick Access (Demo)** buttons available on the login page
 
 ## ▶ How To Run This Project Locally
 
-Follow these steps:
+Follow these steps: (In Command Prompt - cmd)
 
 ### 1️⃣ Install Dependencies
 
